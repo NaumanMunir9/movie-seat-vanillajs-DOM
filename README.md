@@ -1,0 +1,1 @@
+# movie-seat-vanillajs-DOM
